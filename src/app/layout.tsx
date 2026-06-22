@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Formaker - Drag-and-drop Form Builder",
-  description: "Drag-and-drop form builder with automatic react-hook-form & Zod generation",
+  title: "Formaker — Drag-and-drop Form Builder",
+  description: "Drag-n-drop form builder with automatic react-hook-form & Zod generation",
 };
 
 export default function RootLayout({
